@@ -6,6 +6,7 @@ This application is to help users create a README.md quickly and accurately. Sim
 ## Table of Contents
 * [Preview](#Preview)
 * [Installation](#Installation)
+* [Packages](#Package)
 * [License](#License)
 * [Contributing](#Contributing)
 * [Questions](#Questions)
@@ -15,6 +16,9 @@ This application is to help users create a README.md quickly and accurately. Sim
 
 ## Installation
 npm i
+
+## Package
+* inquirer
 
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
